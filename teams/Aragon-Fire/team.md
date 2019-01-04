@@ -1,6 +1,6 @@
 # Aragon Flock proposal: Aragon One 
 
-_This is the basic structure you should follow when creating your team.md where you briefly describe of the current team with links to their relevant social media channels (github, twitter, etc) and provide info of future openings if you plan to hire more people during the year.
+_This is the basic structure you should follow when creating your team.md where you briefly describe of the current team with links to their relevant social media channels (github, twitter, etc) and provide info of future openings if you plan to hire more people during the year._
 
 ## Summary
 
